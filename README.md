@@ -1,0 +1,2 @@
+# Ruby-Core-CSGO
+CSGO TEST Cheat Project. EXTERNAL CHAMS
